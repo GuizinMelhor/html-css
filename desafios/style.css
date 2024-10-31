@@ -14,16 +14,10 @@ header {
     background-color: rgb(198, 244, 255);
 }
 
-nav{
-
-}
-
 h4{
     padding: 20px;
 }
 
-h4:hover{
-}
 
 main {
     min-width: 300px;
